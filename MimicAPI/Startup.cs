@@ -69,7 +69,6 @@ namespace MimicAPI
                 cfg.DocInclusionPredicate((docName, apiDesc) =>
                 {
                     var actionApiVersionModel = apiDesc.ActionDescriptor?.GetApiVersion();
-                    // would mean this action is unversioned and should be included everywhere
                     if (actionApiVersionModel == null)
                     {
                         return true;
@@ -85,8 +84,7 @@ namespace MimicAPI
 
             });
         }
-
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
@@ -97,7 +95,7 @@ namespace MimicAPI
 
             app.UseMvc();
 
-            app.UseSwagger(); // /swagger/v1/swagger.json
+            app.UseSwagger();
             app.UseSwaggerUI(cfg => {
                 cfg.SwaggerEndpoint("/swagger/v2.0/swagger.json", "MimicAPI - V2.0");
                 cfg.SwaggerEndpoint("/swagger/v1.0/swagger.json", "MimicAPI - V1.0");
