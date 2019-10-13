@@ -1,0 +1,29 @@
+C:\APIS-CSHARP\ASP.NETCoreWebAPI\Seção 04\01_Fim\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\MimicAPI.deps.json
+C:\APIS-CSHARP\ASP.NETCoreWebAPI\Seção 04\01_Fim\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\MimicAPI.runtimeconfig.json
+C:\APIS-CSHARP\ASP.NETCoreWebAPI\Seção 04\01_Fim\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\MimicAPI.runtimeconfig.dev.json
+C:\APIS-CSHARP\ASP.NETCoreWebAPI\Seção 04\01_Fim\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\MimicAPI.dll
+C:\APIS-CSHARP\ASP.NETCoreWebAPI\Seção 04\01_Fim\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.csprojAssemblyReference.cache
+C:\APIS-CSHARP\ASP.NETCoreWebAPI\Seção 04\01_Fim\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.csproj.CoreCompileInputs.cache
+C:\APIS-CSHARP\ASP.NETCoreWebAPI\Seção 04\01_Fim\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.RazorAssemblyInfo.cache
+C:\APIS-CSHARP\ASP.NETCoreWebAPI\Seção 04\01_Fim\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.RazorAssemblyInfo.cs
+C:\APIS-CSHARP\ASP.NETCoreWebAPI\Seção 04\01_Fim\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.AssemblyInfoInputs.cache
+C:\APIS-CSHARP\ASP.NETCoreWebAPI\Seção 04\01_Fim\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.AssemblyInfo.cs
+C:\APIS-CSHARP\ASP.NETCoreWebAPI\Seção 04\01_Fim\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.RazorTargetAssemblyInfo.cache
+C:\APIS-CSHARP\ASP.NETCoreWebAPI\Seção 04\01_Fim\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\MimicAPI.pdb
+C:\APIS-CSHARP\ASP.NETCoreWebAPI\Seção 04\01_Fim\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.dll
+C:\APIS-CSHARP\ASP.NETCoreWebAPI\Seção 04\01_Fim\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.pdb
+C:\APIS-CSHARP\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\MimicAPI.deps.json
+C:\APIS-CSHARP\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\MimicAPI.runtimeconfig.json
+C:\APIS-CSHARP\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\MimicAPI.runtimeconfig.dev.json
+C:\APIS-CSHARP\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\MimicAPI.dll
+C:\APIS-CSHARP\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\MimicAPI.pdb
+C:\APIS-CSHARP\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.csprojAssemblyReference.cache
+C:\APIS-CSHARP\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.csproj.CoreCompileInputs.cache
+C:\APIS-CSHARP\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.RazorAssemblyInfo.cache
+C:\APIS-CSHARP\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.RazorAssemblyInfo.cs
+C:\APIS-CSHARP\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.AssemblyInfoInputs.cache
+C:\APIS-CSHARP\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.AssemblyInfo.cs
+C:\APIS-CSHARP\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.RazorTargetAssemblyInfo.cache
+C:\APIS-CSHARP\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.dll
+C:\APIS-CSHARP\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.pdb
+C:\APIS-CSHARP\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\MimicAPI.xml
